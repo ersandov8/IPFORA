@@ -2,4 +2,4 @@
 This R shiny app creates plots for isotope data from organic residue analysis using modern reference fats to compare against archaeological fats
 This app was designed to produce two types of plots. The ellipse plots (called small delta plot) uses the major fatty acid components of modern reference fats (C16:0 and C18:0) to calculate P=0.684 confidence ellipses for reference fats. The plot also includes an optional mixing model line to estimate where mixed fats would appear on the plot using the equation from Woodbury (1995) (See References below). The second plot (called big delta plot) uses the Δ13C value (calculated by using the difference in the δ13C values of the C16:0 and C18:0) from modern reference fats to create 1 SD estimates of major fat groups (ruminant diary, ruminant adipose, etc). The app will use any modern reference fats that are supplied to the csv file and automatically calculate the ellipses and SDs needed.   
 
-To use, download the instructions (.doc) and copy the R code into a RMD file in R studio.
+To use, download the instructions (.doc) and copy the R code into a RMD file in R studio or download the RMD file directly.
