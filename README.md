@@ -5,7 +5,7 @@ This app was designed to produce two types of plots. The ellipse plots (called s
 To use, download the instructions (.doc) and copy the R code into a RMD file in R studio or download the RMD file directly. 
 
 If you prefer an online-only application with no need to download and use R, follow this link to the app that is hosted online https://ersandov8.github.io/IPFORA/
-The online app fucntions the same as the one in R, so the intruction manual remains the same. Download the .doc file to follow along. 
+The online app functions the same as the one in R, so the intruction manual remains the same. Download the .doc file to follow along. 
 
 References:
 
